@@ -28,7 +28,7 @@ class App extends Component {
       <div>
         <div className="title">
           <h1 className="intro">
-             Einstein Vision Demo
+             Machine Learning demo
              <div className="detail">of the General Image Classifier</div>
           </h1>
         </div>
@@ -89,9 +89,11 @@ class App extends Component {
         </div>
 
         <div className="footer">
-          <a href="https://github.com/heroku/einstein-vision-node">GitHub</a>
+<!--                     <a href="https://github.com/heroku/einstein-vision-node">GitHub</a>
           <a href="https://metamind.readme.io/v1/docs">API Docs</a>
+-->
         </div>
+
       </div>
     );
   }
