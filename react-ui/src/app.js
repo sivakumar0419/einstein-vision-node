@@ -82,15 +82,11 @@ class App extends Component {
                     :null}
                 </div>
               </div>
-            
             <Predictions contents={predictions}/>
           </div>
           </Dropzone>
         </div>
-
         <div className="footer">
-  //<a href="https://github.com/heroku/einstein-vision-node">GitHub</a>
-  //<a href="https://metamind.readme.io/v1/docs">API Docs</a>
       </div>
       </div>
     );
